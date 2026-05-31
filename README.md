@@ -5,7 +5,14 @@ A modern malware hash analysis and threat intelligence platform that allows user
 Built with a clean full-stack architecture using **React**, **FastAPI**, and **SQLite**, this project demonstrates practical cybersecurity workflows, malware analysis concepts, and API integration.
 
 ---
+## 🌐 Live Demo
 
+Try the application here:
+
+- **Frontend:** [ThreatHash Analyzer](https://threathash-analyzer-1.onrender.com)
+- **API Documentation:** [Swagger Docs](https://threathash-analyzer.onrender.com/docs)
+
+---
 # Features
 
 - Malware hash scanning
