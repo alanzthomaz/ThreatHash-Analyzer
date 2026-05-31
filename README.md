@@ -10,7 +10,6 @@ Built with a clean full-stack architecture using **React**, **FastAPI**, and **S
 Try the application here:
 
 - **Frontend:** [ThreatHash Analyzer](https://threathash-analyzer-1.onrender.com)
-- **API Documentation:** [Swagger Docs](https://threathash-analyzer.onrender.com/docs)
 
 ---
 # Features
