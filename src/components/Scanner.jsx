@@ -48,7 +48,7 @@ export default function Scanner({ file, onComplete }) {
         addLog(`Establishing secure connection to remote threat engines...`);
         
         // Step 3: Query real Python backend
-        const response = await fetch(`https://threathash-analyzerz.onrender.com/api/scan/${hashHex}`);
+        const response = await fetch(`https://threathash-analyzer.onrender.com/api/scan/${hashHex}`);
         if (!response.ok) {
           throw new Error(`Backend returned status ${response.status}`);
         }
